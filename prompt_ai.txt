@@ -1,0 +1,17 @@
+Daftar Prompt AI & Instruksi Sistem Komputasi Numerik
+
+1. Prompt: Pembuatan Algoritma Penyelesaian Sistem Persamaan Linear Tiga Variabel (SPLTV)
+Isi: "Buat Algoritma Penyelesaian Sistem Persamaan Linear 3 variabel dan simpan pada Repository 'Komputasi Numerik' di Github"
+Deskripsi: Meminta implementasi metode numerik (Eliminasi Gauss dengan Substitusi Balik) dalam bahasa pemrograman Python beserta panduan tahapan Git/GitHub untuk penyimpanan repository.
+
+2. Prompt: Penentuan Nama File Kode
+Isi: "nama file"
+Deskripsi: Menanyakan dan menentukan nama file standar untuk kode Python yang dibuat (spltv_gauss.py).
+
+3. Prompt: Penyimpanan Prompt AI
+Isi: "Simpan seluruh prompt AI yang Anda gunakan dalam sebuah file .txt dan simpan pada Repository 'Komputasi Numerik' di Github"
+Deskripsi: Meminta dokumentasi seluruh riwayat prompt interaksi dalam bentuk file teks (.txt) untuk diunggah ke repository GitHub.
+
+4. Prompt: Tambahan Pembuatan di Notepad
+Isi: "9 Simpan seluruh prompt AI yang Anda gunakan dalam sebuah file .txt dan simpan pada Repository 'Komputasi Numerik' di Github buatakn di notepad"
+Deskripsi: Meminta agar format file teks prompt AI disiapkan agar dapat langsung disalin ke Notepad dan disimpan ke repository GitHub.
